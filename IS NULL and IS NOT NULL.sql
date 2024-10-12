@@ -1,0 +1,5 @@
+SELECT * FROM test
+WHERE name IS NULL;
+
+SELECT * FROM test
+WHERE name IS NOT NULL;
