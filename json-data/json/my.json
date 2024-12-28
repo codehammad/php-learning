@@ -1,0 +1,44 @@
+[
+    {
+      "sid": "1",
+      "sname": "Ali Hamza",
+      "saddress": "Multan",
+      "sclass": "3",
+      "sphone": "923001234567"
+    },
+    {
+      "sid": "2",
+      "sname": "Fatima Khan",
+      "saddress": "Lahore",
+      "sclass": "2",
+      "sphone": "923219876543"
+    },
+    {
+      "sid": "3",
+      "sname": "Zainab Raza",
+      "saddress": "Islamabad",
+      "sclass": "2",
+      "sphone": "923331122334"
+    },
+    {
+      "sid": "4",
+      "sname": "Malik Usama",
+      "saddress": "Lahore",
+      "sclass": "3",
+      "sphone": "923455566778"
+    },
+    {
+      "sid": "6",
+      "sname": "Hammad Fayyaz",
+      "saddress": "4017",
+      "sclass": "1",
+      "sphone": "999999"
+    },
+    {
+      "sid": "14",
+      "sname": "Hello New",
+      "saddress": null,
+      "sclass": null,
+      "sphone": null
+    }
+  ]
